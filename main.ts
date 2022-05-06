@@ -1,0 +1,6 @@
+let juan = sprites.create(assets.image`pepe`, SpriteKind.Player)
+controller.moveSprite(juan)
+scene.cameraFollowSprite(juan)
+tiles.setCurrentTilemap(tilemap`vb`)
+tiles.setCurrentTilemap(tilemap`juan`)
+tiles.setCurrentTilemap(tilemap`ko`)

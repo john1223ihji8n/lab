@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAACAiIiICAAAAIiIiIiIAACAhIiIiIgAAEiEiIiIiAgASIvIiIv8iICEiIiLyLyIgIhIiIvIvIncSESIiIv8idxIi8iIiIiJ3IiIiIiIiInciIiIiIiIidyciIiIiIiJ3ICIiIiIiAncAIiIiIiIAAAAAIiIiAAAAAAAgIgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pepe"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
